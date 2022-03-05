@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ralflima/java_spring/blob/master/icone.png" width="30%">
-  <h1 style="border-bottom:none">Java Spring - Básico</h1>
+  <h1 style="border-bottom:none">Criando APIs com Spring Boot</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
   <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ">
@@ -48,6 +48,6 @@
 
    <p>Caso queira realizar o projeto final com mentoria, englobando todos os assuntos aprendidos nas aulas e com possibilidade de obter certificado, é necessário ser membro do canal.</p>
 
-   <p>Membros do canal possuem diversas vantagens, confira <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ">clicando aqui</p>.
+   <p>Membros do canal possuem diversas vantagens, confira <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ">clicando aqui</a>.</p>
   </div>
 </div>
